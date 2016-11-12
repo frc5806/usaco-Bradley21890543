@@ -1,2 +1,2 @@
 # usaco-Bradley21890543
-usaco-Bradley21890543 created by GitHub Classroom
+Fencpainting.java is no longer fenc painting. Now it is the second one. FencePainting was the easiest anyway
